@@ -1,0 +1,8 @@
+[Codec]
+0x10ec0287 0x17aa391a 0
+
+[Pincfg]
+# Node 0x14 is your Bass/Woofer (already working, keeping it default)
+0x14 0x90170110
+# Node 0x17 is your Tweeter/Front (currently N/A, we force it ON)
+0x17 0x90170111
